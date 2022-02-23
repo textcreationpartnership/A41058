@@ -1,0 +1,235 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A letter sent to the King from M.F. here is also thereunto annexed a paper written unto the magistrates in 1664, which was then printed, and should have been dispersed, but was prevented by wicked hands / by M.F.</title>
+            <author>Fox, Margaret Askew Fell, 1614-1702.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1666</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 19 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A41058</idno>
+            <idno type="STC">Wing F633</idno>
+            <idno type="STC">ESTC R5602</idno>
+            <idno type="EEBO-CITATION">12580906</idno>
+            <idno type="OCLC">ocm 12580906</idno>
+            <idno type="VID">63745</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A41058)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 63745)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 960:16)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A letter sent to the King from M.F. here is also thereunto annexed a paper written unto the magistrates in 1664, which was then printed, and should have been dispersed, but was prevented by wicked hands / by M.F.</title>
+                  <author>Fox, Margaret Askew Fell, 1614-1702.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1666]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Cambridge University Library.</note>
+                  <note>On t.p.: This was delivered to the King, the 20th. of the 6. month, 1666 by Elizabeth Stubbs.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Freedom of religion --  Great Britain.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2014-02</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2014-02</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:63745:1"/>
+            <pb facs="tcp:63745:1" rendition="simple:additions"/>
+            <p>A LETTER Sent to the KING From M. F. Here is alſo thereunto Annexed a Paper written unto the Magiſtrates in 1664. which was then Printed, and ſhould have been diſperſed, but was prevent<g ref="char:EOLhyphen"/>ed by wicked hands.</p>
+            <p>By M. F.</p>
+            <q>
+               <p>They judge not the cauſe of the Fatherleſs, and the right of the needy they do not judge.</p>
+               <p>Shall not I viſit for theſe things ſaith the Lord, ſhall not my ſoul be avenged on ſuch a Nation as this.</p>
+               <bibl>Jer. 5.29. and Iſa. 1.24.</bibl>
+            </q>
+            <q>
+               <p>There is no King ſaved by the multitude of an Hoſt, a mighty Man is not delivered by much ſtrength, but bleſſed is the Nation whoſe God is the Lord, and the People whom he hath choſen for his Inheritance.</p>
+               <bibl>Pſ. 33.</bibl>
+            </q>
+            <q>
+               <p>Many are the deviſes of Man, but the counſel of the Lord will ſtand,</p>
+               <bibl>Prov. 19.21.</bibl>
+            </q>
+            <p>This was delivered to the <hi>King,</hi> the 29th. of the 6. Month, 1666 by <hi>Elizabeth Stubbs,</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb n="2" facs="tcp:63745:2"/>
+            <head>A <hi>Letter</hi> ſent to the <hi>King</hi> from <hi>M. F.</hi> &amp;c. KING CHARLES, <hi>I deſire thee to read this over, which may be for thy ſatisfaction and profit.</hi>
+            </head>
+            <p>IN the fear of the Lord God ſtand ſtill, and conſider, what thou and you have been doing theſe ſix years, ſince the Lord brought you peaceably into this Realm, and made you Ru<g ref="char:EOLhyphen"/>lers over this People. The righteous eye of the Almighty hath been over you, and hath ſeen all your doings and actions.</p>
+            <p>What Lawes have you made or changed, ſave ſuch as have laid oppreſſion and bondage on the Conſciences of Gods People? and that of no leſs penalty then <hi>Baniſhment cut of their Native Country.</hi> The greateſt crime that you could find with the People of God, was, <hi>that they obeyed and worſhiped Chriſt Jeſus;</hi> ſo that the great<g ref="char:EOLhyphen"/>eſt ſtroke that hath appeared of your J<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſtice hath been upon ſuch as you counted Offenders for worſhiping of God; In ſo much that ſeveral of your Judges of the Land have ſeveral times, ſaid in open Court to <hi>any that did confeſs that they met to worſhip the Lord God,</hi> That, <hi>that was crime enough,</hi> whereby they could proceed to Ban<g ref="char:EOLhyphen"/>iſhment; and when it was asked in open Court; <hi>whether it was n<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>w bec<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>me a tranſgr<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſſi<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n or a crime in</hi> England <hi>to worſhip God.</hi> He that was then the Chief Juſtice of <hi>England</hi> anſwered; <hi>Yes, yes;</hi> Oh wonderful! let this be Chronicled in <hi>England</hi> for after Ages, that all Mag<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſt<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ates may dread and fear ſo to affront the Almighty; except they da<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e ſay, they are ſtronger then he.</p>
+            <p>And all this hath been without any juſt cauſe given at any time by that People which was the object of this Law; ſo that Men that had but the leaſt meaſure of righteouſneſs and equity, could never have proceeded on to have inflicted ſuch a height of puniſh<g ref="char:EOLhyphen"/>ment, without ſome juſt ground.</p>
+            <p>And all that ever was pretended was but ſuſpition, which never can be pa<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>alleld; to be proſecuted to ſuch a height of ſuffering without a juſt ground given; although occaſion hath been conti<g ref="char:EOLhyphen"/>nually ſought and watched for, but never found; but the Lord
+<pb n="3" facs="tcp:63745:2"/>hath preſerved his People innocent and harmleſs; and therefore is he engaged to plead their Cauſe into whoſe hand it is wholly gi<g ref="char:EOLhyphen"/>ven and commited.</p>
+            <p>I deſire you alſo to conſider ſeriouſly in the fear of the Lord, what effects and fruits theſe things hath brought forth.</p>
+            <p>Firſt, I believe it hath brought hundreds of Gods People to their Graves; it hath alſo rendered this Realm, and the Gover<g ref="char:EOLhyphen"/>nours of it cruel, in the eyes of all People, both within its own body, and in other Nations; beſides the guilt of innocent blood lies upon this Kingdome.</p>
+            <p>Since which time the Lord in his judgment hath taken many thouſands of its People away by his two Judgments, <hi>Peſtilence</hi> and <hi>Sword.</hi>
+            </p>
+            <p>And before any of this was, when you firſt entered into this Kingdome; I was ſent of the Lord to you, to informe you, truly of the ſtate and condition of our People: And when I came be<g ref="char:EOLhyphen"/>fore thee oh King.</p>
+            <p>I told thee I was come to thee in the behalf of an innocent, harmleſs, peaceable People; which words I would then and ever ſince, and ſhould at this day ſeale with my blood, if I were put to it; and thy anſwer was to me; <hi>If they be peaceable, they ſhall be protected.</hi>
+            </p>
+            <p>I alſo wrote to thee ſeveral times concerning our ſaith and principles; how that we could not ſwear for Conſcience ſake; neither could we take up Armes, nor Plot, nor contrive to do any Man wrong nor injury, much leſs the King.</p>
+            <p>I alſo told you, that we muſt worſhip God; for God required it of us.</p>
+            <p>We did likewiſe give you, many of our Books, which contain<g ref="char:EOLhyphen"/>ed our faith and principles and doctrine, that thereby we might be tryed by the Scriptures of truth (which all of you do profeſs) whether our Principles were erroneous or no; and to that pur<g ref="char:EOLhyphen"/>poſe we gave our Books to the <hi>King</hi> and <hi>Parliament;</hi> and to the <hi>Biſhops,</hi> and <hi>Miniſters,</hi> both <hi>Eccleſiaſtical</hi> and <hi>Civil.</hi>
+            </p>
+            <p>Our Books were ſold openly amongſt all people; and our Principles declared in a Declaration, and freely holden forth to the whole World.</p>
+            <p>We alſo deſired that we might have a Meeting of the <hi>Biſhops</hi> or <hi>Miniſters</hi> of the Land, and that our friends would freely and wil<g ref="char:EOLhyphen"/>lingly give them a Meeting, that thereby they and we, might be
+<pb n="4" facs="tcp:63745:3"/>tryed by the Scriptures, which of us was in the error:—where<g ref="char:EOLhyphen"/>upon thou waſt pleaſed to grant us our requeſts; and promiſed us that we ſhould have a Meeting, which was but reaſonable; but the <hi>Biſhops</hi> and thoſe that was concerned, feared that their cauſe would not hold ſtitch with the rule of the Scriptures; and ſo they turned it off; when our friends were ready; and would not give us a Meeting; this action of theirs did clearly manifeſt them to be out of the life and power of the Scriptures; for Chriſt Je<g ref="char:EOLhyphen"/>ſus ſaid to thoſe that he ſent forth, that they <hi>ſhould not be afraid, for he would give them a mouth and wiſdome, that all their adverſaries ſhould not be able to gain-ſay nor reſiſt;</hi> and likewiſe the Apoſtle when he wrote to his Son <hi>Timothy,</hi> in the 2 <hi>Timothy</hi> 2.24, 25, 26. <hi>and the Servant of the Lord</hi> (ſaith he) <hi>muſt not ſtrive, but be gentle unto all Men; apt to teach; patient, in meekneſs inſtructing thoſe that oppoſe themſelves, if God peradventure will give them repentance, and come to the acknowledging of the truth, &amp;c.</hi>
+            </p>
+            <p>If they had been the Miniſters of Chriſt, and in the Apoſtles Doctrine, they would have taken this way with us; they would have endeavoured to have convinced us by ſound Doctrine, or at leaſt have tryed us this way, before they had put the civil Magi<g ref="char:EOLhyphen"/>ſtrates upon it to make Laws againſt us; but this manifeſted their ſpirits and principle; for they rather chooſed to deliver us up to you, that had the Whip and the Scourge in your hands; and that which they could not do by ſound Doctrine; they put it upon o<g ref="char:EOLhyphen"/>thers to do it for them by compulſion.</p>
+            <p>But the all-ſeeing God, hath ſeen all this.</p>
+            <p>And all this we did that you ſhould not be ignorant what we could do; and what we could not do.</p>
+            <p>I told you alſo that we could give unto <hi>Caeſar,</hi> the thing that was <hi>Caeſars;</hi> and give unto God alſo the thing that was Gods.</p>
+            <p>And this is a witneſs for the Lord in this day that he pleads, that you were not ignorant.</p>
+            <p>I alſo writ to thee to beware how thou ruled in this Nation, for the people of this Nation was a britle people generally; &amp; beſides them the Lord had a people here that was dear unto him.</p>
+            <p>And I deſi<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed thee not to touch them, nor hurt them; I alſo deſi<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed thee to beware of the Councel of the <hi>Biſhops;</hi> for if thou hearkned to their Councel, they would be thy ruine; for it was their Councel was the ruine of thy Father; for their counſel is the ſame that <hi>Reboboams</hi> young Men was; read what the Lord did
+<pb n="5" facs="tcp:63745:3"/>with that King in the 1. of <hi>Kings</hi> and 12. Thou knoweſt this is true their counſel <hi>is to make the burthen heavier,</hi> as theirs was.</p>
+            <p>All this with much more I wrote to thee, and warned thee of; I can truly ſay in the fear of the Lord; In much love and tender<g ref="char:EOLhyphen"/>neſs to thee; and now I may ſay unto thee, for which of theſe things haſt thou kept me in Priſon three long Winters, in a place not fit for people to lye in; ſometime for wind and ſtorm and rain, and ſometime for ſmoak; ſo that it is much that I am alive; but that the power and goodneſs of God hath been with me. I was kept a year and ſeven Months in this Priſon, before I was ſuffered to fee the Houſe that was mine, or Children or Family, except they came to me over two dangerous Sands in the cold Winter; when they came with much danger of their lives; but ſince the laſt <hi>Aſſizes</hi> I have had a little more reſpect from this <hi>Sheriff</hi> then for<g ref="char:EOLhyphen"/>merly from others. And in all this I am very well ſatisfied; and praiſes the Lord who counts me worthy to ſuffer for his ſake.</p>
+            <p>For I never did thee nor any other man in the Nation any wrong and ſo I may ſay for many more of our Friends that have ſuffered even untill death; and all that we could write or ſpeak we were not believed, and all the warnings that we gave of Judgments; and told you plainly we had done ſo with other Governours be<g ref="char:EOLhyphen"/>fore you; and how the Lord had overthrown them; and deſired you many times to beware leaſt the Lords Judgments came over you alſo; but all was to no purpoſe, for as long as there was peace in the Land the maine buſineſs of the <hi>Parliament</hi> was to <hi>invent Lawes to puniſh and perſecute Quakers;</hi> but to make Lawes to pu<g ref="char:EOLhyphen"/>niſh vice, ſin and wickedneſs, and laſciviouſneſs, we had but a little of ſuch Lawes.</p>
+            <p>And now after all my ſufferings, in the ſame love that I viſited thee in the beginning, I deſire thee once more to fear the Lord God <hi>by whom Kings rule, and Princes decree juſtice, who ſets up one and pulls down another at his pleaſure.</hi>
+            </p>
+            <p>And let not the g<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ilt or the burden of that word that paſſed from thee at <hi>Breda</hi> lie upon thy conſcience, but as thou promiſed when thou waſt in diſtreſs, and alſo renewed it many times ſince, that thou would give liberty to tender Conſciences; in the fear of the Lord performe it and purge thy Conſcience of it, and hearken not to wicked Councellors that hath ſtopped it in thee: all this time, for they will bear none of thy burden for thee, when the Lord pleads for breach of Covenant with him and his people;
+<pb n="6" facs="tcp:63745:4"/>I know it hath been often in thy heart to performe it, and thou haſt ſeen what fruit the want of it hath brought forth.</p>
+            <p>So if thou loveſt thy eternal peace and comfort with the Lord, try what the performance of it will bring forth, who wilt there<g ref="char:EOLhyphen"/>by ſee thou haſt hearkened to wrong Councellors.</p>
+            <p>And every mortal Man hath but a moment in this life, either to ſerve, fear, and honour the Lord, and therein to receive mercy from him, or elſe to tranſgreſs, ſin, diſobey, and diſhonour him, and ſo receive the judgment of eternal miſery.</p>
+            <p>So never a one of you knows how long, or how ſhort your day may be; therefore <hi>fear not man that can kill the body, but fear the Lord who when he hath killed the body can caſt the ſoul into hell;</hi> yea I ſay unto you fear him.</p>
+            <p>From a true lover of all your ſouls (though a ſufferer by you) and the deſire of my heart is that you may take theſe things into conſideration betime before it be too late; and ſet open the Priſon doors and let the innocent go free, and that will take part of the burden and guilt off you, leſt the door of mercy be ſhut to you.</p>
+            <closer>
+               <dateline>From my Priſon at Lancaſter Caſtle <date>the 6. d. 6. Mon. 1666.</date>
+               </dateline>
+               <signed>Margaret Fell.</signed>
+            </closer>
+         </div>
+         <div type="letter">
+            <head>To the Magiſtrates and People of <hi>England</hi> where this may come.</head>
+            <p>WHat is the matter with the Chriſtians of our age, and of our <hi>Engliſh</hi> Nation that hath been looked upon to be a <hi>Garden</hi> and a <hi>Nurcery</hi> in Chriſtianity and Religion beyond all other Nations, that have made ſo great profeſſion of God and Chriſt, and of the Scriptures; and are they turned perſecuters and Law makers againſt Chriſtianity? and againſt thoſe that are in the ſame ſpirit of God, power and fellowſhip as they were in, that gave forth the Scriptures which the people of <hi>England</hi> profeſſes; and are theſe now become the greateſt enemies that <hi>England</hi> have, and for no other cauſe but <hi>becauſe they worſhip God, and obey Chriſt's command, and abides in his Doctrine, and bears the ſame Teſtimony of truth, and Reſurrection of the Lord Jeſus Chriſt as the Apoſtles did:</hi> And all that they do, and act, and ſpeak, and ſuffer for, is according to Scripture, and nothing that they ſuffer for is contrary to the Scriptures; is theſe things become a crime in <hi>England?</hi> and is this thegreateſt offence that <hi>England</hi> hath taken with the People
+<pb n="7" facs="tcp:63745:4"/>of God? even becauſe they believe in the Lord Jeſus Chriſt, and obeys his Doctrine. <hi>Oh take up a Lamentation for England,</hi> ſurely there is ſome heavy, ſad, and grievous Judgment waiting upon her; and is not hardneſs of <hi>heart</hi> and a <hi>reprobate mind,</hi> and <hi>a ſeared Conſcience</hi> one of the greateſt Judgments that can befall a people? and is not this already ſeized upon the Law makers of <hi>England,</hi> that have hardned their hearts againſt the Lord and his people; as if they had no other enemies but they, who never did them wrong nor hurt, nor never deſired or intended any hurt againſt them, but hath ever deſired their good, &amp; peace, &amp; welfare, and that they might come to the true knowledge of the Lord, and to the true knowledge of his truth, as it is in Jeſus.</p>
+            <p>Which they clearly manifeſt they are ignorant of, by their making of Lawes againſt thoſe amongſt them that fears God, and worſhips him, and gives glory to his name, though they be <hi>free<g ref="char:EOLhyphen"/>born Engliſhmen and women,</hi> nor have they tranſgreſſed any juſt Law of <hi>England,</hi> untill they were forced to make one, to make them tranſgreſſors with, though they be of the ſame Religion that they themſelves profeſs, they profeſs Chriſt and the <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>crip<g ref="char:EOLhyphen"/>tures in words, but thoſe that come to the works of Righteouſ<g ref="char:EOLhyphen"/>neſs and to believe in the Lord Jeſus Chriſt, which is the work of God, ſuch they perſecute and make Lawes aga<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ſt; ſo that <hi>Eng<g ref="char:EOLhyphen"/>land</hi> appears now as if it would ſhut Chriſtianity out of its do<g ref="char:EOLhyphen"/>minion, and what will they bring in and ſet up next? ſeeing they baniſh out Chriſt and his Members, and ſ<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>vants; and ſaints, and ſo makes them ſlaves that be freeborn <hi>Engliſh</hi> men, which hath been a bleſſing unto them, and to the Land wherein they lived, and no hurt to them, and if they had given them the liberty of their Conſcience, to have ſerved the Lord God, they might have been partakers of the bleſſing with them; but being that <hi>they have turned their hand againſt the Lord, and turned their ſword back<g ref="char:EOLhyphen"/>wards againſt the Righteous;</hi> ſurely the Lord will plead for this, and ſurely there will a recompence come, for its hard to ſtrive a<g ref="char:EOLhyphen"/>gainſt the Lord, and to touch his Anointed, and to do his Prophets any harm, when they were but few in number, be reproved Kings for their ſake; and he is the ſame now, he changes not, and his arme and power is the ſame, and his Righteouſneſs is the ſame, which is to be revealed upon the head of the wicked, and he is engaged to plead the cauſe of the innocent, who hath no pleader in the Earth, and his eye ſees and beholds all the Actions of the
+<pb n="8" facs="tcp:63745:5"/>Children of Men, and thoſe that acts againſt him and his ſervants, he takes ſpecial notice of, <hi>and be ſaw the affliction of his people formerly, when they were afflicted in</hi> Egypt, <hi>and heard their cries, and knew their ſufferings;</hi> and ſurely he is the ſame now as he was then; and as he hath ſaid himſelf, <hi>in as much as you do it unto my little ones, you do it unto me;</hi> this he ſaid when he knew that his next appearance ſhould be in his Saints: and certainly thoſe that perſecuted his Saints even without a Law, when they had none, and contrary to ſeveral Lawes of <hi>England</hi> (as ſeveral of the ſer<g ref="char:EOLhyphen"/>vants of the Lord hath ſuffered) hath Chriſts ſervants been per<g ref="char:EOLhyphen"/>ſecuted by thoſe that were in power formerly, and they that did this, and they that make new Lawes; certainly if Chriſt and the Apoſtles had been and were upon the Earth they would have done the ſame unto them; but all theſe things the Lord hath taken no<g ref="char:EOLhyphen"/>tice of, and they are written where they cannot be bloted out; and all the righteous blood that hath been ſhed ſince <hi>Abel,</hi> and all the Saints ſufferings in all ages the Lord hath taken notice of, and all thoſe Chriſtians in theſe latter times, where <hi>ſeveral have been impriſoned to death for the Chriſtian faith;</hi> all this the Lord hath in everlaſting remembrance; and when he comes to make inquiſition for the blood of his ſaints and ſervants, it will be a hard and a ſad day for the acters and fighters againſt God; ſo all ye Chriſtian <hi>Magiſtrates</hi> beware what ye d<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, and keep your hands out of blood, and perſecution of the innocent, and let that which is paſt ſuffice, for <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e will find it heavy enough; and for the time to come dread and fear the Lord God of Heaven and Earth, that hath all your lives and breath in his hand to give and take away at his plea<g ref="char:EOLhyphen"/>ſure; and do not that which may incur the Lords diſpleaſure againſt you, by making <hi>Children fatherleſs,</hi> and <hi>wives widows,</hi> as there are already ſeveral in <hi>England</hi> at this day; it's better for you to offend Man then God, and ſo endanger your mortal ſouls, ſo mind that which concerns your eternal peace, and the eternal welfare of your ſouls; and this I am moved of the Lord to for<g ref="char:EOLhyphen"/>warn you of, leaſt you bring wee and miſery on your ſouls, and a general judgment on the whole Land, and this is true love unto you, and the deſire of the general peace and good. And remem<g ref="char:EOLhyphen"/>ber that you were warned from a priſoner of the Lord in <hi>Lan<g ref="char:EOLhyphen"/>caſter</hi> Caſtle.</p>
+            <closer>
+               <dateline>
+                  <date>7th. day, <gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>th. Mon. 1664.</date>
+               </dateline>
+               <signed>Margaret Fell.</signed>
+            </closer>
+            <trailer>THE END.</trailer>
+            <pb facs="tcp:63745:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
